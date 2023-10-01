@@ -6,13 +6,13 @@ The program has an intuitive text interface
 
 The project consists of three modules, each module solves one of the tasks below:
 
-- Solving linear equations
+- Solving nonlinear equations
 - Interpolation
 - Numerical integration
 
 ---
 
-### Linear equations
+### Nonlinear equations
 
 > ##### **Method:** Newton 's method
 
